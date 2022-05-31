@@ -1,4 +1,4 @@
 <div align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SersonPL&theme=onedark" width="495px">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianSeredyn)](https://github.com/anuraghazra/github-readme-stats)
 </div>
